@@ -4,10 +4,15 @@ vue项目打印表格示例
 
 在线体验: [https://mouday.github.io/vue-print/](https://mouday.github.io/vue-print/)
 
-![](img/vue-print.png)
+![](https://raw.githubusercontent.com/mouday/vue-print/master/img/vue-print.png)
+
+![](https://raw.githubusercontent.com/mouday/vue-print/master/img/print.png)
 
 ## Project setup
 ```
+$ node -v
+v16.14.0
+
 npm install
 ```
 
