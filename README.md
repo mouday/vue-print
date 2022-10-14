@@ -2,9 +2,9 @@
 
 vue项目打印表格示例
 
-在线体验
+在线体验: [https://mouday.github.io/vue-print/](https://mouday.github.io/vue-print/)
 
-
+![](img/vue-print.png)
 
 ## Project setup
 ```
